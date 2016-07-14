@@ -14,3 +14,8 @@ one instead of another?
     within GitHub itself
     >> clone = a copy of either a local or a GitHub repo on your own machine
     >> branch = a sequence of commits within the same repo
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+    You can always compare the current state of your own work against the remote
+    state. This way, you won't make outdated decisions by accident.
