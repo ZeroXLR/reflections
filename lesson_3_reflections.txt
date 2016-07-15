@@ -19,3 +19,10 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
     You can always compare the current state of your own work against the remote
     state. This way, you won't make outdated decisions by accident.
+
+How would you collaborate without using git or GitHub? What would be easier, and
+what would be harder?
+    I would probably use Google Drive. Collaborating would be much easier at
+    first because all one has to do is open a Shared Folder and copy-paste
+    things to the drive. But keeping track of file history and making sure that
+    no one deletes things on accident would be much more difficult.
